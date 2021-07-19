@@ -1,0 +1,39 @@
+html{
+    scroll-behavior: smooth;
+}
+.pink-btn{
+    background-image: linear-gradient(#FF5498, #FF1873);
+    color: #fff;
+    padding: 9px 25px;
+    border-radius: 8px;
+}
+.price{
+    color: #FF136F;
+}
+.product{
+    height: 100px;
+    width: 350px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: #fff;
+}
+.product img{
+    height: 100%;
+}
+.watch{
+    background-color: #FFA500;
+}
+.bag{
+    background-color: #DA70D6;
+}
+.shoe{
+    background-color: #0000FF;
+}
+.catagories{
+    margin: 0 auto;
+}
+.subscribe-section{
+    background-color: #FEEAE9;
+    padding: 50px 0;
+    border-radius: 10px;
+}
